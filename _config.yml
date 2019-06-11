@@ -72,28 +72,28 @@ tools:
 # - name: amazonwebservices
   - name: android
 # - name: angularjs
-# - name: apache
+  - name: apache
 # - name: appcelerator
 # - name: apple
   - name: atom
 # - name: babel
 # - name: backbonejs
 # - name: bitbucket
-# - name: bootstrap
+  - name: bootstrap
 # - name: bower
 # - name: c
 # - name: chrome
 # - name: codeigniter
 # - name: coffescript
 # - name: confluence
-# - name: cplusplus
-# - name: csharp
-# - name: css3
+  - name: cplusplus
+  - name: csharp
+  - name: css3
 # - name: cucumber
-# - name: d3js
+  - name: d3js
 # - name: debian
 # - name: devicon
-# - name: django
+  - name: django
 # - name: docker
 # - name: doctrine
 # - name: dot-net
@@ -112,33 +112,33 @@ tools:
 # - name: gradle
 # - name: grunt
 # - name: gulp
-# - name: heroku
-# - name: html5
+  - name: heroku
+  - name: html5
 # - name: ie10
 # - name: illustrator
 # - name: inkscape
-# - name: itellij
-# - name: java
+  - name: itellij
+  - name: java
 # - name: jasmine
-# - name: javascript
+  - name: javascript
 # - name: laravel
 # - name: less
   - name: linux
 # - name: meteor
 # - name: mocha
-# - name: mongodb
+  - name: mongodb
 # - name: moodle
-# - name: mysql
+  - name: mysql
 # - name: nginx
-# - name: nodejs
+  - name: nodejs
 # - name: nodewebkit
 # - name: oracle
-# - name: photoshop
-# - name: php
-# - name: phpstorm
+  - name: photoshop
+  - name: php
+  - name: phpstorm
 # - name: protractor
 # - name: postgresql
-# - name: python
+  - name: python
   - name: pycharm
 # - name: rails
 # - name: react
@@ -147,7 +147,7 @@ tools:
 # - name: ruby
 # - name: rubymine
 # - name: safari
-# - name: sass
+  - name: sass
 # - name: sequelize
   - name: slack
 # - name: sourcetree
@@ -163,10 +163,10 @@ tools:
 # - name: vim
   - name: visualstudio
 # - name: vuejs
-# - name: webpack
+  - name: webpack
   - name: webstorm
 # - name: windows8
-# - name: wordpress
+  - name: wordpress
 # - name: yii
 # - name: zend
 
