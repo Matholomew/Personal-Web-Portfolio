@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb478f15-afae-4367-8898-ce6f66c3c167" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/outofafrica.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/outofafrica.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/proflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/proflow.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/images/project1Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/project1Img.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/vbe.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/vbe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/outofafrica.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/outofafrica.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/proflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/proflow.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/project1Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/project1Img.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/vbe.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/vbe.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,12 +141,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560325954392</updated>
-      <workItem from="1560325955482" duration="1948000" />
+      <workItem from="1560325955482" duration="2247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1948000" />
+    <option name="totallyTimeSpent" value="2247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
