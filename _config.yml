@@ -39,6 +39,26 @@ project_five_description: Website I built while working at The Logic Studio
 project_five_url: https://karitanemaoritours.nz
 project_five_icon: restaurant
 
+project_six: Victor Brown Electrical
+project_six_description: Website I built while working at The Logic Studio
+project_six_url: https://vbe.nz
+project_six_icon: restaurant
+
+project_seven: Proflow Plumbing & Gas
+project_seven_description: Website I built while working at The Logic Studio
+project_seven_url: https://proflowplumbing.co.nz/
+project_seven_icon: restaurant
+
+project_eight: Kowhai Otago
+project_eight_description: Website I built while working at The Logic Studio
+project_eight_url: https://kowhaiotago.co.nz/
+project_eight_icon: restaurant
+
+project_nine: Out of Africa
+project_nine_description: Website I built while working at The Logic Studio
+project_nine_url: https://outofafrica.nz/
+project_nine_icon: restaurant
+
 portfolio_heading: Portfolio
 portfolio_type: cards
 
