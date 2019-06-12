@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb478f15-afae-4367-8898-ce6f66c3c167" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/portfolio_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio_cards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/kowhai.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/kowhai.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/images/outofafrica.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/outofafrica.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/images/proflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/proflow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/project1Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/project1Img.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/images/vbe.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/vbe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/kowhai.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/kowhai.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/outofafrica.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/outofafrica.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/proflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/proflow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project1Img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/project1Img.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/vbe.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/vbe.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/_includes/portfolio_cards.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="467">
-              <caret line="131" column="8" lean-forward="true" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
+              <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -148,16 +147,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560325954392</updated>
-      <workItem from="1560325955482" duration="1701000" />
+      <workItem from="1560325955482" duration="1948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1701000" />
+    <option name="totallyTimeSpent" value="1948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -239,7 +237,7 @@
     <entry file="file://$PROJECT_DIR$/_includes/portfolio_cards.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
-          <caret line="131" column="8" lean-forward="true" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
+          <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
         </state>
       </provider>
     </entry>
